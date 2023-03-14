@@ -147,9 +147,13 @@ nav ul li a {
   }
 }
 
+/* features */
+
 #feature {
   width: 100%;
   padding: 70px 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), #d6c0e2),
+    url("../images/logo1.png");
 }
 
 .title-texte {
